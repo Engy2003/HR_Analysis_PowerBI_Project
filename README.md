@@ -23,7 +23,7 @@ The data is processed and analyzed to create valuable reports that can guide HR 
 - **Data Modeling**: The project incorporates multiple relationships and data models to link the various tables, ensuring accurate and meaningful analysis.
 - **Data Visualization**: Interactive reports and dashboards were created in Power BI to visualize insights on employee performance, satisfaction, and education levels. Key questions explored include:
   - What are the performance trends across different education levels?
-  - Satisfaction levels across various departments
+  - Satisfaction levels across various departments?
   - How do satisfaction levels correlate with performance ratings?
 
 ## Connect with Me
